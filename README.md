@@ -6,6 +6,7 @@
 
 ## Projects for sharing
 - [Carzone website](https://aqueous-shore-47394.herokuapp.com/)
+- [Ecommerce website](https://greatecommerce-django.herokuapp.com/)
 ## Find me around the web 🌎:
 - Learning in public on Twitch or monica.dev 📹 ✍🏾
 - Tinkering with interactions on Codepen 🏓
