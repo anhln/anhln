@@ -7,11 +7,15 @@
 ## Projects for sharing
 - [Carzone website](https://aqueous-shore-47394.herokuapp.com/)
 - [Ecommerce website](https://greatecommerce-django.herokuapp.com/)
-## Find me around the web 🌎:
-- Learning in public on Twitch or monica.dev 📹 ✍🏾
-- Tinkering with interactions on Codepen 🏓
-- Sharing updates on LinkedIn 💼
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">  
+&nbsp; <a href="https://www.linkedin.com/in/anhln/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:anhlnster@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [anhln](https://github.com/anhln)
 
 <!---
 anhln/anhln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
