@@ -2,7 +2,6 @@
 - 🌱 I’m a full-stack developer, backend with Python Django and Frontend is Vuejs
 - 👀 I’m interested in data science, blockchain technology
 - 💞️ I’m looking to collaborate on all
-- 📫 How to reach me ...
 
 ## Projects for sharing
 - [Carzone website](https://aqueous-shore-47394.herokuapp.com/)
